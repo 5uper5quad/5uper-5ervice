@@ -8,7 +8,7 @@ var faker = require('faker');
 class Description extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { 
+    this.state = {
     };
   };
 
@@ -67,7 +67,7 @@ class Description extends React.Component {
         </Experience>
         <DescriptionContainer>
           <Line>
-          - A guesthouse, 4 rooms in total, this is one of them. 
+          - A guesthouse, 4 rooms in total, this is one of them.
           </Line>
           <Line>
           - Everyday, different Korean traditional Breakfast
@@ -82,7 +82,7 @@ class Description extends React.Component {
           - Shared livingroom (breafkast is prepared here)
           </Line>
           <Line>
-          - Located in the oldest village in Seoul, central location(near Gyeongbokgung Station), easily access to all historic and cultural places 
+          - Located in the oldest village in Seoul, central location(near Gyeongbokgung Station), easily access to all historic and cultural places
           </Line>
           <Line>
           - Walk to Gyengbokgung Palace, Bukchon, Samcheong-dong, Insa-dong
@@ -116,8 +116,8 @@ const TopContainer = styled.div`
 // border-bottom-width: 0.5px;
 
 const Location = styled.div`
-  font-family: 'MontrealRegular';
-  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
   font-style: normal;
   color: #404040;
   align-self: flex-start;
@@ -174,7 +174,7 @@ const Fourth = styled.div`
 `;
 
 const Title = styled.div`
-  font-family: 'MontrealRegular';
+  font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   font-style: normal;
   color: #404040;
