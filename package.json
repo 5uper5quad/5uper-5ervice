@@ -30,7 +30,7 @@
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
     "frisby": "^2.1.1",
     "jest": "^24.8.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nodemon": "^1.19.0",
     "react-test-renderer": "^16.8.6",
     "supertest": "^4.0.2",
